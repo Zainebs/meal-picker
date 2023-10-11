@@ -1,0 +1,87 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+
+}
+
+.App {
+  text-align: center;
+}
+
+
+
+/* App.css */
+
+/* Container for the entire page */
+.Whole-page {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  background-color: bisque;
+}
+
+/* Styles for the left container (Previous Meals) */
+.left-container {
+  flex: 1;
+  text-align: left;
+}
+
+/* Styles for the center container (API information) */
+.center-container {
+  flex: 2;
+  text-align: center;
+}
+
+/* Styles for the right container (Ban List) */
+.right-container {
+  flex: 1;
+  text-align: right;
+  padding: 10px;
+}
+
+/* Styles for the app title */
+.app-title {
+  font-size: 50px;
+  margin-bottom: 20px;
+  text-align: center; /* Center the text horizontally */
+  color: red; /* Change the color to red or your preferred color */
+}
+
+/* Styles for the previous meals section */
+.previous-meals-title {
+  font-size: 50px;
+  margin-bottom: 10px;
+  color: rgb(195, 116, 207);
+  padding: 5px;
+}
+.ban-list-title{
+  font-size: 50px;
+  margin-bottom: 10px;
+  color: rgb(195, 116, 207);
+  padding: 5px;
+}
+
+.previous-meals-list {
+  list-style: none;
+  padding: 0;
+}
+
+.previous-meals-list li {
+  margin-bottom: 5px;
+}
+
+/* Styles for the discover button (adjust as needed) */
+.discover-button {
+  font-size: 18px;
+  padding: 10px 20px;
+  margin-bottom: 10px;
+}
+img-container {
+  width: 20px; /* Adjust the width to your desired size */
+  height: auto;
+}
