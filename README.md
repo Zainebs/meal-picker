@@ -31,7 +31,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-[gif]
+[gif](https://imgur.com/a/T5cSH01) 
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with kap 
